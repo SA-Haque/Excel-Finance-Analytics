@@ -37,6 +37,9 @@
 
 ## Also created the Presentaion of Sales & Finance Analytics for better understanding.
 
+[Finance presentation](https://github.com/SA-Haque/Excel-Sales-and-Finance-Analytics/blob/main/%5B6%5D%20Finance%20Presentation.pdf)_
+[Sales presentation](https://github.com/SA-Haque/Excel-Sales-and-Finance-Analytics/blob/main/%5B10%5D%20Sales%20Presentation.pdf)_
+
 
 
 ## Technical & Soft Skills:
