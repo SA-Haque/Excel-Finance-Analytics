@@ -2,11 +2,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SA-Haque/Excel-Finance-Analytics/blob/main/P%20%26%20L%20BY%20YEAR.pdf)_ & _[Months](https://github.com/SA-Haque/Excel-Finance-Analytics/blob/main/P%20%26%20L%20BY%20MONTH.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/SA-Haque/Excel-Sales-and-Finance-Analytics/blob/main/%5B1%5D%20P%20%26%20L%20BY%20YEAR.pdf)_ & _[Months](https://github.com/SA-Haque/Excel-Sales-and-Finance-Analytics/blob/main/%5B2%5D%20P%20%26%20L%20BY%20MONTH.pdf)_ 
 
-    **3.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SA-Haque/Excel-Finance-Analytics/blob/main/P%20%26%20L%20FOR%20MARKETS.pdf)_
+    **3.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SA-Haque/Excel-Sales-and-Finance-Analytics/blob/main/%5B3%5D%20P%20%26%20L%20FOR%20MARKETS.pdf)_
 
-    **4.** Create Gross Margin % (GM%) reports by _[Sub_Zone](https://github.com/SA-Haque/Excel-Finance-Analytics/blob/main/GM%20%25%20BY%20QUARTERS%20(%20Sub_Zone).pdf)_
+    **4.** Create Gross Margin % (GM%) reports by _[Sub_Zone](https://github.com/SA-Haque/Excel-Sales-and-Finance-Analytics/blob/main/%5B4%5D%20GM%20%25%20BY%20QUARTERS%20(%20Sub_Zone).pdf)_
 
 
   
